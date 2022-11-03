@@ -1,0 +1,15 @@
+{
+  "name": "sudehuayhanoi2023",
+  "main": "sudehuayhanoi2023",
+  "theme": "syntax",
+  "version": "1.1.16",
+  "description": "สูตรหวยฮานอย แจกฟรีสูตรหวยฮานอยแม่น ๆ เข้าทุกงวด จากอาจารย์ชื่อดัง มีสูตรหวยออนไลน์ให้ใช้ฟรี RUAY จ่ายสูงสุดบาทละ 950",
+  "keywords": [
+    "สูตรหวยฮานอย"
+  ],
+  "repository": "https://github.com/fufool/sudehuayhanoi2023.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
